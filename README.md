@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo]([https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png](https://github.com/SDikshith78/SDikshith78/blob/main/Github%20banner.png))
 <h1 align="center">Namaste 🙏, I'm Sai Dikshith</h1>
 <h3 align="center">Front-End Developer & UI/UX Designer | Transforming Ideas into Interactive, User-Friendly Experiences.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
